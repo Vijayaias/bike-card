@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/bandivijayabharathi@gmail.com.lwc-l3znsrep",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve zzuACqoQxIH7pAd1YyNX --open"
+  }
+}
